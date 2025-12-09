@@ -1,0 +1,10 @@
+[package]
+name = "day09"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+geo = "0.32.0"
+geo-types = "0.7.18"
+itertools = "0.14.0"
+polygon = "0.1.1"
