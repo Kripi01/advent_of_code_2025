@@ -1,0 +1,10 @@
+[package]
+name = "day10"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+good_lp = "1.14.2"
+ndarray = "0.15"
+ndarray-linalg = { version = "0.16", features = ["openblas-static"] }
+rayon = "1.11.0"
